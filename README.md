@@ -1,3 +1,3 @@
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git
-Yep
+Cambios por el Estudiante 2
